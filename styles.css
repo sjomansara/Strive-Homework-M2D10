@@ -29,3 +29,10 @@ a {
 .card {
     border-color: rgb(212, 211, 211);
 }
+
+div p span {
+    background-color: purple;
+    padding: 5px;
+    border-radius: 3px;
+    color: white;
+}
