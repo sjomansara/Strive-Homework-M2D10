@@ -53,3 +53,7 @@ div p span {
 .border-bottom {
     border-color: rgb(194, 192, 192) !important;
 }
+
+#menu {
+    background-color: rgb(212, 211, 211) !important;
+}
