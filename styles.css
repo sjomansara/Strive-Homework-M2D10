@@ -1,4 +1,29 @@
 #logo {
     background-color: white;
-    border-radius: 10%;
+    border-radius: 25%;
+}
+
+body {
+    background-color: rgb(199, 199, 199);
+}
+
+a {
+    color: rgb(212, 211, 211) !important;
+}
+
+.buy {
+    background-color:rgb(154, 230, 68) !important;
+    border-color: rgb(154, 230, 68) !important;
+    position: absolute;
+    top: 90%;
+    left: 92%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
 }
