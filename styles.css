@@ -36,3 +36,8 @@ div p span {
     border-radius: 3px;
     color: white;
 }
+
+.navbar {
+    padding-left: 11%;
+    padding-right: 11%;
+}
