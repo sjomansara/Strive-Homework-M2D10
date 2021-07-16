@@ -41,3 +41,15 @@ div p span {
     padding-left: 11%;
     padding-right: 11%;
 }
+
+#textColor {
+    color: rgb(94, 93, 93) !important;
+}
+
+.border-right {
+    border-color: rgb(194, 192, 192) !important;
+}
+
+.border-bottom {
+    border-color: rgb(194, 192, 192) !important;
+}
