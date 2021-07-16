@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: rgb(199, 199, 199);
+    background-color: rgb(212, 211, 211);
 }
 
 a {
@@ -15,15 +15,17 @@ a {
     background-color:rgb(154, 230, 68) !important;
     border-color: rgb(154, 230, 68) !important;
     position: absolute;
-    top: 90%;
+    top: 82%;
     left: 92%;
     transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-    background-color: #555;
-    color: white;
+    -ms-transform: translate(-50%, -50%)
     font-size: 16px;
     padding: 12px 24px;
     border: none;
     cursor: pointer;
-    border-radius: 5px;
+    border-radius: 2px;
+}
+
+.card {
+    border-color: rgb(212, 211, 211);
 }
